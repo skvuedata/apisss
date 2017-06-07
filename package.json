@@ -1,0 +1,27 @@
+{
+  "name": "ssdevproject",
+  "version": "0.0.1",
+  "description": "ssdevelopmentproject",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sk And SM",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "connect-multiparty": "^2.0.0",
+    "express": "^4.15.2",
+    "express-fileupload": "^0.1.2",
+    "express-myconnection": "^1.0.4",
+    "fcm-push": "^1.1.2",
+    "moment": "^2.18.1",
+    "mssql": "^4.0.4",
+    "multer": "^1.3.0",
+    "mysql": "^2.13.0",
+    "notp": "^2.0.3",
+    "otplib": "^4.0.6",
+    "request": "^2.81.0",
+    "speakeasy": "^2.0.0"
+  }
+}
